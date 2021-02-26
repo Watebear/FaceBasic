@@ -3,8 +3,8 @@ A face project implement serval basic face task.
 This project is going to be finished in a long peroid.
 
 # Currently
-1. FaceDetection
-(1) RetinaFace (mobilenet0.25)
+1. FaceDetection    
+(1) RetinaFace (mobilenet0.25)    
 (2) CenterFace (TODO)
 
 2. FaceRecognition
